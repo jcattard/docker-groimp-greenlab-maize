@@ -1,4 +1,4 @@
-FROM quanteek/groimp:1.4.2
+FROM quanteek/groimp:latest
 MAINTAINER quanteek
 
 #Running
