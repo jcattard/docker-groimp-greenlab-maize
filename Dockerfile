@@ -1,4 +1,4 @@
-FROM quanteek/groimp:latest
+FROM quanteek/docker-groimp:latest
 MAINTAINER quanteek
 
 #Running
