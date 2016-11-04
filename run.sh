@@ -9,7 +9,7 @@ else
 fi
 rm p_* y_*
 # split input file
-split -l2 $1 p_
+split --suffix-length 6 -l2 $1 p_
 NPROC=0
 for i in $(ls p_*)
 do
